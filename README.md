@@ -18,7 +18,6 @@
   </h1>
 </div>
 
----
 
 ### :man_technologist: About Me :
 
@@ -26,20 +25,17 @@
 
 - 🌱 I’m currently learning React.
 
-- 👬 I’m looking to collaborate on GitHub(https://github.com/ritesharma1819).
+- 👬 I’m looking to collaborate on [!GitHub](https://github.com/ritesharma1819).
 
 - 💡 Exploring Technical stuff. 
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-sharma-7330411b5/)
 
 
----
-
-
 ### 🛠️ Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" title="NextJs" alt="NextJs" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" title="NextJs" alt="NextJs" width="40" height="40" color="white" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"           height="40"/>&nbsp;
@@ -51,8 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
 </div>
 
----
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ritesharma1819&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ritesharma1819&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ritesharma1819&layout=compact&theme=vision-friendly-dark)](https://github.com/ritesharma1819/github-readme-stats)
 
