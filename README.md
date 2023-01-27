@@ -13,7 +13,7 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=ritesharma1819&style=flat-square&color=blue" alt=""/>
   <h1>
-  Hola, I'm Ritesh
+  Hola, I'm Ritesh Sharma
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -23,13 +23,13 @@
 
 - 🔭 I’m currently working on React.
 
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning React, NextJs, GraphQL, Tailwind.
 
 - 👬 I’m looking to collaborate on [GitHub](https://github.com/ritesharma1819).
 
-- 💡 Exploring Technical stuff. 
+- 💡 Exploring React eco systm. 
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-sharma-7330411b5/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-sharma-7330411b5/)
 
 
 ### 🛠️ Languages and Tools :
@@ -48,4 +48,5 @@
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ritesharma1819&theme=dark&background=000000)](https://git.io/streak-stats)
+![Ritesh Sharma's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritesharma1819&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritesharma1819&theme=dark)
