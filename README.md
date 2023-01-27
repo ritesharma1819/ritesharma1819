@@ -48,5 +48,5 @@
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ritesharma1819&theme=dark&background=000000)](https://git.io/streak-stats)
-![Ritesh Sharma's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritesharma1819&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritesharma1819&theme=dark)
+![Ritesh Sharma's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritesharma1819&show_icons=true&theme=dark)
