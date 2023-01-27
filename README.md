@@ -27,10 +27,9 @@
 
 - 👬 I’m looking to collaborate on [GitHub](https://github.com/ritesharma1819).
 
-- 💡 Exploring React eco systm. 
+- 💡 Exploring React Eco System. 
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-sharma-7330411b5/)
-
 
 ### 🛠️ Languages and Tools :
 <div>
@@ -46,7 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
 </div>
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ritesharma1819&theme=dark&background=000000)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritesharma1819&theme=dark)
 ![Ritesh Sharma's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritesharma1819&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritesharma1819&theme=dark)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ritesharma1819&theme=dark&background=000000)](https://git.io/streak-stats)
+
