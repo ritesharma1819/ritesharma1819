@@ -23,13 +23,13 @@
 
 - 🔭 I’m currently working on React.
 
-- 🌱 I’m currently learning React, NextJs, GraphQL, Tailwind.
+- 🌱 I’m currently learning React, NextJs, GraphQL and Tailwind.
 
 - 👬 I’m looking to collaborate on [GitHub](https://github.com/ritesharma1819).
 
 - 💡 Exploring React eco systm. 
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-sharma-7330411b5/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-sharma-7330411b5/)
 
 
 ### 🛠️ Languages and Tools :
