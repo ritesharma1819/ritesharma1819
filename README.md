@@ -5,18 +5,18 @@
     <a href="https://www.linkedin.com/in/ritesh-sharma-7330411b5/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
+     <a href="https://twitter.com/Ritesharma1819">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
     <a href="https://www.instagram.com/ritesharma1819/">
       <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-    <a href="https://twitter.com/Ritesharma1819">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
   </div>
 
   <img src="https://komarev.com/ghpvc/?username=ritesharma1819&style=flat-square&color=blue" />
 
   <h1>
-    Hola, I'm Ritesh Sharma
+    Hi, I'm Ritesh Sharma
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 
