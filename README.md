@@ -28,7 +28,6 @@
 ## 👨‍💻 About Me
 
 - 🚀 Software Engineer with **4+ years of experience** building scalable **web and mobile applications**
-- 💼 Currently working on **AI-powered fintech products** (Wealth Management, Trading, e-KYC)
 - 🧠 Experienced in owning products **from scratch to production**
 - 🤝 Strong collaborator with Product, Design, and Backend teams
 - 🏗️ Focused on **performance, scalability, and clean user experience**
@@ -60,9 +59,3 @@
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
-![Ritesh Sharma's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritesharma1819&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritesharma1819&layout=compact&theme=dark)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ritesharma1819&theme=dark&background=000000)](https://git.io/streak-stats)
